@@ -1,2 +1,2 @@
 # project
-Coursera Project repository
+Coursera Project Repository
